@@ -1,4 +1,4 @@
-# starRail-atlas
+# star-rail-atlas
 Genshin-Atlas是一个主要由[`米游社@听语惊花`](https://bbs.mihoyo.com/ys/accountCenter/postList?id=289918413)（而不是西风驿站）制作的星穹铁道(StarRail)游戏图鉴。
 
 ## 目录结构
