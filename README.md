@@ -1,37 +1,13 @@
 # starRail-atlas
+Genshin-Atlas是一个主要由[`米游社@听语惊花`](https://bbs.mihoyo.com/ys/accountCenter/postList?id=289918413)（而不是西风驿站）制作的星穹铁道(StarRail)游戏图鉴。
 
-#### 介绍
-Atlas星穹铁道库
+## 目录结构
+- [ ] 角色速览
 
-#### 软件架构
-软件架构说明
+注意：请使用根目录下的path.json来获取准确的完整目录。
 
+如果你支持本项目，可以给个star或者[爱发电](https://afdian.net/a/Nwflower)，你的支持不会获得额外内容，但会提高本项目的更新积极性
 
-#### 安装教程
+本图鉴目前仅供学习交流使用，素材版权为米哈游所有。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+您不应以任何形式使用本仓库进行盈利性活动，否则，我将立即停止所有图鉴制作并关闭图鉴的开源状态，不再提供更新支持。
