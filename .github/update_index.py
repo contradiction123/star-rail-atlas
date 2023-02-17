@@ -5,7 +5,7 @@ from pathlib import Path
 main_path = Path(__file__).parent.parent  # 项目根目录
 
 exclude_file = ['LICENSE', 'README.md']  # 排除的文件列表
-exclude_dir = []  # 排除的文件夹列表
+exclude_dir = ['index']  # 排除的文件夹列表
 
 
 json_file = {}
