@@ -1,6 +1,12 @@
 {
+  "lightcone": {
+    "如泥酣眠": "/lightcone/如泥酣眠.png",
+    "星海巡航": "/lightcone/星海巡航.png",
+    "于夜色中": "/lightcone/于夜色中.png"
+  },
   "role": {
-    "黑塔": "/role/黑塔.png",
-    "希儿": "/role/希儿.png"
+    "娜塔莎": "/role/娜塔莎.png",
+    "希儿": "/role/希儿.png",
+    "黑塔": "/role/黑塔.png"
   }
 }
