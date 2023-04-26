@@ -1,8 +1,14 @@
-# star-rail-atlas
-Genshin-Atlas是一个主要由[`米游社@听语惊花`](https://bbs.mihoyo.com/ys/accountCenter/postList?id=289918413)（而不是西风驿站）制作的星穹铁道(StarRail)游戏图鉴。
+# Star-Rail-Atlas
+Star-Rail-Atlas是一个主要由[`米游社@听语惊花`](https://bbs.mihoyo.com/ys/accountCenter/postList?id=289918413)（而不是西风驿站）制作的星穹铁道(StarRail)游戏图鉴。
 
 ## 目录结构
-- [ ] 角色速览
+### 已经做好了的
+- [x] 光锥图鉴（更新至1.0，含68个光锥）
+
+### 正在做的
+- [ ] 角色材料
+- [ ] 角色图鉴
+- [ ] 遗器图鉴
 
 注意：请使用根目录下的path.json来获取准确的完整目录。
 
