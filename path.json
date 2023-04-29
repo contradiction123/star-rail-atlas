@@ -1,14 +1,22 @@
 {
   "role": {
+    "物理开拓者": "/role/物理开拓者.png",
+    "虎克": "/role/虎克.png",
+    "姬子": "/role/姬子.png",
     "桑博": "/role/桑博.png",
     "丹恒": "/role/丹恒.png",
     "白露": "/role/白露.png",
+    "火开拓者": "/role/火开拓者.png",
     "瓦尔特": "/role/瓦尔特.png",
     "布洛妮娅": "/role/布洛妮娅.png",
     "克拉拉": "/role/克拉拉.png",
+    "杰帕德": "/role/杰帕德.png",
     "娜塔莎": "/role/娜塔莎.png",
+    "彦卿": "/role/彦卿.png",
     "黑塔": "/role/黑塔.png",
-    "希儿": "/role/希儿.png"
+    "艾丝妲": "/role/艾丝妲.png",
+    "希儿": "/role/希儿.png",
+    "三月七": "/role/三月七.png"
   },
   "lightcone": {
     "记忆中的模样": "/lightcone/记忆中的模样.png",
