@@ -141,5 +141,31 @@
     "艾丝妲": "/material for role/艾丝妲.png",
     "希儿": "/material for role/希儿.png",
     "三月七": "/material for role/三月七.png"
-  }
+  },
+  "strategy": {
+    "素裳": "/strategy/素裳.png",
+    "希露瓦": "/strategy/希露瓦.png",
+    "物理开拓者": "/strategy/物理开拓者.png",
+    "虎克": "/strategy/虎克.png",
+    "景元": "/strategy/景元.png",
+    "姬子": "/strategy/姬子.png",
+    "桑博": "/strategy/桑博.png",
+    "丹恒": "/strategy/丹恒.png",
+    "白露": "/strategy/白露.png",
+    "火开拓者": "/strategy/火开拓者.png",
+    "佩拉": "/strategy/佩拉.png",
+    "瓦尔特": "/strategy/瓦尔特.png",
+    "布洛妮娅": "/strategy/布洛妮娅.png",
+    "阿兰": "/strategy/阿兰.png",
+    "克拉拉": "/strategy/克拉拉.png",
+    "杰帕德": "/strategy/杰帕德.png",
+    "青雀": "/strategy/青雀.png",
+    "娜塔莎": "/strategy/娜塔莎.png",
+    "停云": "/strategy/停云.png",
+    "彦卿": "/strategy/彦卿.png",
+    "黑塔": "/strategy/黑塔.png",
+    "艾丝妲": "/strategy/艾丝妲.png",
+    "希儿": "/strategy/希儿.png",
+    "三月七": "/strategy/三月七.png"
+  },
 }
